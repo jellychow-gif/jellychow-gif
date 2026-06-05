@@ -1,19 +1,14 @@
-## 我是个不会写代码的 HRD —— 下面这个产品，我用 Claude Code 自己 ship 的 👇
+### Jelly Chow · [Moka](https://www.mokahr.com) · 北京
 
-**Jelly Chow** · [Moka](https://www.mokahr.com) HRD · 北京
+HRD，在 Moka 张罗 AI Native 团队。非技术背景，平时也用 Claude Code 折腾点东西——慢慢 vibecode 出了一个小项目：
 
-### 🛠️ [The AI Native · Organization Observatory](https://the-ai-native.vercel.app/)
+**[The AI Native · Organization Observatory](https://the-ai-native.vercel.app/)**
+一个双语周报，记录前沿公司怎么围绕 AI Agent 重构组织。Python 抓取+评分、Claude API、Next.js、GitHub Actions 每周五自动出刊。
 
-一个双语周报观察站，追踪前沿公司如何围绕 AI Agent 重构人才与组织。
-Python 抓取+评分流水线 · Claude API（Haiku 评分 / Sonnet 摘要）· Next.js · GitHub Actions 每周五 08:00（北京）自动出刊。
-**零编程背景，全程 Claude Code。**
+#### 我们在招 Agent / Harness 工程师（北京 / 成都）
 
-> 一个 HRD 都能 vibecode 出这个 —— 你大概能想象，我们团队在做什么。
+一个独立的 AI Native 小团队，做 0→1、真正跑业务的 AI Agent。
+团队全员用 Claude Code / Cowork，AI 工具预算管够。
+不太看学历和大厂背景，更想看你做过什么。
 
-### 🚀 我在招 Agent / Harness 工程师 · 北京 / 成都
-
-独立 AI Native 团队，做 0→1、真正跑业务的 AI Agent（不做套壳 demo）。
-100% AI Coding（Claude Code / Cowork），AI 工具预算不设上限。
-**不看学历、不看大厂背景 —— 只看你 0→1 ship 过什么。**
-
-在做 agent？直接来聊 👉 **zhouhouchun@mokahr.com** · WeChat **jellyzhc**
+如果你也在做 agent，欢迎聊聊：zhouhouchun@mokahr.com · 微信 jellyzhc
