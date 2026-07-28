@@ -7,4 +7,4 @@
 不看学历、不看大厂背景，只看你做过什么：Ship Fast、好奇、爱折腾。
 
 —— 我是 Jelly，[Moka](https://www.mokahr.com) 的 HRD（零编程背景，平时也用 Claude Code 折腾，比如这个追踪「AI 原生组织怎么搭」的观察站 [The AI Native](https://the-ai-native.vercel.app/)）。
-在做 AI 应用 / agent，欢迎来聊：zhouhouchun@mokahr.com · 微信 jellyzhc
+在做 AI 应用 / agent，期待认识：zhouhouchun@mokahr.com · 微信 jellyzhc
